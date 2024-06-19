@@ -1,0 +1,1 @@
+While creating the Stone-Paper-Scissor game, I used HTML, CSS, and JavaScript to implement the web app. I have gained clarity in coding logic, user input, randomness, and debugging. You also learned about control structures, functions, and game loops, which are essential for developing interactive applications.
